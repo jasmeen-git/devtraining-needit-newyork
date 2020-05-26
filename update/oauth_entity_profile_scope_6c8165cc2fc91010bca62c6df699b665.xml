@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile_scope">
+    <oauth_entity_profile_scope action="INSERT_OR_UPDATE">
+        <oauth_entity_profile display_value="Slack OAuth default_profile">6a00298c2fc91010bca62c6df699b65e</oauth_entity_profile>
+        <oauth_entity_scope display_value="chat:write:user">0c5025c82fc91010bca62c6df699b6d9</oauth_entity_scope>
+        <sys_class_name>oauth_entity_profile_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-23 07:19:54</sys_created_on>
+        <sys_id>6c8165cc2fc91010bca62c6df699b665</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6a00298c2fc91010bca62c6df699b65e</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>oauth_entity_profile_scope_6c8165cc2fc91010bca62c6df699b665</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-23 07:19:54</sys_updated_on>
+    </oauth_entity_profile_scope>
+</record_update>
